@@ -1,1 +1,1 @@
-une fonctionnalité
+deux fonctionnalités
